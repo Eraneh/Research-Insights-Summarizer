@@ -1,0 +1,6 @@
+{
+  "name": "Research Insights Summarizer",
+  "description": "A GenAI-powered research summarization tool that extracts and presents key objectives, methods, results, and conclusions from scientific papers, offering an interactive query interface for literature reviews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
